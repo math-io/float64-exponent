@@ -51,7 +51,7 @@
     "url": "https://github.com/math-io/float64-exponent/issues"
   },
   "dependencies": {
-    "math-float64-get-high-word": "git+https://github.com/math-io/float64-get-high-word.git"
+    "math-float64-get-high-word": "^1.0.0"
   },
   "devDependencies": {
     "browserify": "12.x.x",
